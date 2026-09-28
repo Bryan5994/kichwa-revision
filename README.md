@@ -1,7 +1,5 @@
 # Kichwa · Revisión lingüística
 
-Aplicación para revisar textos y contenido lingüístico, con decisiones editables e historial.
+Herramienta de revisión de textos y recursos lingüísticos. Acceso privado, borradores, historial y exportación.
 
-El repositorio contiene código. Los textos, documentos, propuestas y decisiones se mantienen en almacenamiento privado con acceso autorizado.
-
-Estado: configuración y pruebas de conexión en curso.
+El repositorio publica únicamente la aplicación. Los materiales y decisiones están protegidos en Supabase. Estado: pruebas de conexión y puesta en marcha.
